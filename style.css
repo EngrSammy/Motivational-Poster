@@ -27,3 +27,14 @@ p {
     color: whitesmoke;
     font-family: poppins, serif;
 }
+
+footer {
+    text-align: center;
+    font-size: 10px;
+    font-weight: light;
+    margin-top: 170px;
+}
+
+hr {
+    font-weight: 100;
+}
